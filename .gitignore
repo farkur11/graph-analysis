@@ -1,0 +1,20 @@
+# Ignore everything in this folder
+*
+
+# Keep these files/folders:
+!.gitignore
+!README.md
+
+!01_getting_data.py
+!02_data_prepocessing.py
+!03_graphs_calculations.py
+!04_graphs_visuals.py
+!05_clusters_fnl.py
+!06_gr_visuals.py
+
+!data_extraction.sql
+
+
+# Keep the boxplots folder and everything inside it
+!boxplots/
+!boxplots/**
